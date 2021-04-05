@@ -34,6 +34,6 @@ The eXtreme Gradient Boosting Classifier provided an Area Under the Precision-Re
 * Credit Card Churn.ipynb: Data prep, EDA, and analysis conducted in Jupyter Notebook (Python) 
 * Credit Card Churn.pdf: Documentation of my findings.
 
-### Presentation
+<!-- ### Presentation -->
 <!-- Update when done [![IMAGE ALT TEXT](http://img.youtube.com/vi/F4EP5Q5jQlY/0.jpg)](https://youtu.be/F4EP5Q5jQlY) -->
 
