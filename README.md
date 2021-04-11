@@ -35,4 +35,4 @@ The eXtreme Gradient Boosting Classifier provided an Area Under the Precision-Re
 * Credit Card Churn.pdf: Documentation of my findings.
 
 ### Presentation
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/14WhMYaw6rg/0.jpg)](https://youtu.be/14WhMYaw6rg)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cV5D9zP-ze0/0.jpg)](https://youtu.be/cV5D9zP-ze0)
