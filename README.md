@@ -17,7 +17,7 @@ Customer churn can be defined as the rate at which customers stop doing business
   * plotly
 
 ### Data
-Credit Card Customers: https://www.kaggle.com/sakshigoyal7/credit-card-customers 
+[Credit Card Customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers) 
 
 ### Modeling Methods
 * Naive Bayes
